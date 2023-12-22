@@ -1,0 +1,50 @@
+[
+    {
+        "custfn" : "Devin",
+        "custln" : "Gray",
+        "movtitle" : "Barbie",
+        "relyear" : "2023",
+        "rendate" :"14/11/2023",
+        "renprice" : 20
+    },
+    {
+        "custfn" : "Alexis",
+        "custln" : "White",
+        "movtitle" : "Enemy",
+        "relyear" : "2013",
+        "rendate" :"15/11/2023",
+        "renprice" : 25
+    },
+    {
+        "custfn" : "Derrick",
+        "custln" : "Hunter",
+        "movtitle" : "Nightcrawler",
+        "relyear" : "2014",
+        "rendate" :"16/11/2023",
+        "renprice" : 20
+    },
+    {
+        "custfn" : "Alicia",
+        "custln" : "Peters",
+        "movtitle" : "Burnt",
+        "relyear" : "2015",
+        "rendate" :"17/11/2023",
+        "renprice" : 25
+    },
+    {
+        "custfn" : "Dylan",
+        "custln" : "Jecks",
+        "movtitle" : "Thanksgiving",
+        "relyear" : "2023",
+        "rendate" :"18/11/2023",
+        "renprice" : 20
+    },
+    {
+        "custfn" : "Allison",
+        "custln" : "Collins",
+        "movtitle" : "Prisoners",
+        "relyear" : "2013",
+        "rendate" :"19/11/2023",
+        "renprice" : 20
+    }
+]
